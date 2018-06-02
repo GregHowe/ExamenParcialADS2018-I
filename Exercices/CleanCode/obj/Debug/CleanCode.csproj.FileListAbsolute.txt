@@ -1,0 +1,6 @@
+C:\exam\Exercise5\Exercice5\CleanCode\bin\Debug\CleanCode.exe.config
+C:\exam\Exercise5\Exercice5\CleanCode\bin\Debug\CleanCode.exe
+C:\exam\Exercise5\Exercice5\CleanCode\bin\Debug\CleanCode.pdb
+C:\exam\Exercise5\Exercice5\CleanCode\obj\Debug\CleanCode.csproj.CoreCompileInputs.cache
+C:\exam\Exercise5\Exercice5\CleanCode\obj\Debug\CleanCode.exe
+C:\exam\Exercise5\Exercice5\CleanCode\obj\Debug\CleanCode.pdb
